@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyWebBrowser.iml" filepath="$PROJECT_DIR$/MyWebBrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWebBrowserEnhanced.iml" filepath="$PROJECT_DIR$/MyWebBrowserEnhanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
